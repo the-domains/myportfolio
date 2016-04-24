@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'An app to browse and "favourite" popular movies'
-datePublished: '2016-04-24T11:16:41.498Z'
-dateModified: '2016-04-24T11:15:25.642Z'
+datePublished: '2016-04-24T11:54:17.972Z'
+dateModified: '2016-04-24T11:54:11.935Z'
 title: MovieHotness Android App
 author:
   - name: ''
