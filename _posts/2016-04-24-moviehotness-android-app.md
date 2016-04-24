@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'An app to browse and "favourite" popular movies'
-datePublished: '2016-04-24T11:55:58.433Z'
-dateModified: '2016-04-24T11:54:29.510Z'
+description: 'An app to browse and "favourite" popular movies:'
+datePublished: '2016-04-24T12:16:21.000Z'
+dateModified: '2016-04-24T12:16:20.054Z'
 title: MovieHotness Android App
 author:
   - name: ''
@@ -21,14 +21,14 @@ publisher:
   favicon: null
 starred: true
 url: moviehotness-android-app/index.html
-_type: Article
+_type: WebPage
 
 ---
 # MovieHotness Android App
 
 See the code on [github][0]
 
-An app to browse and "favourite" popular movies
+An app to browse and "favourite" popular movies:
 
 * Sort by Popular, Highest Rated, or Favourite
 * See the movie poster
